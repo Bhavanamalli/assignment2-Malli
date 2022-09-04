@@ -16,3 +16,13 @@ Closet Airport for National museum is Indira Gandhi International Airport, New D
     3. At Teen Murti-Haifa Chowk, take the 4th exit and stay on Teen Murti Marg.
     4.  At the roundabout, take the 2nd exit onto Janpath Rd.
     5.  Destination will be on the right.
+
+
+ I recommend 
+
+ * India Gate.
+ * Rashtrapati Bhavan.
+ * Connaught Place.
+ * Parliament House.
+
+  
