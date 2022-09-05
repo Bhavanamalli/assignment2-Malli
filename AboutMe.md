@@ -13,3 +13,9 @@ The table below provides information on popular venues in a few cities and the a
 |Hyderabad     |Charminar        | 2 hours|
 |Agra          |Taj Mahal        | 4 hours|
 |Bangalore     |cubbon park      | 2 hours|
+
+***
+# Quotes
+>Peace begins with a smile. *- Mother Teresa*
+
+>Just for today, smile a little more. *- James A. Murphy*
