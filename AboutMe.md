@@ -19,3 +19,27 @@ The table below provides information on popular venues in a few cities and the a
 >Peace begins with a smile. *- Mother Teresa*
 
 >Just for today, smile a little more. *- James A. Murphy*
+
+***
+# Fencing
+
+>How to iterate over a javascript object?
+
+<https://stackoverflow.com/questions/14379274/how-to-iterate-over-a-javascript-object>
+
+```
+/* Define the "system" font family */
+@font-face {
+  font-family: system-ui;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"), local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Light"), local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+
+/* Now, let's apply it on an element */
+body {
+  font-family: "system-ui";
+}
+
+```
+<https://css-tricks.com/snippets/css/system-font-stack/>
